@@ -7,18 +7,18 @@ Each script in this repo is designed to be simple, useful, and educational — p
 
 ## 🔧 What You'll Find Here
 
-| Tool | Description |
-|------|-------------|
-| **File Hash Calculator** | Compute MD5, SHA1, and SHA256 hashes for files to verify integrity or detect tampering. |
-| **Metadata Extractor (EXIF Lite)** | Extract EXIF metadata from image files to identify geolocation, timestamps, and device information. |
-| **Log File Keyword Searcher** | Search `.log` or `.txt` files for custom keywords like “admin”, “error”, or suspicious terms. |
-| **Triage File Info Lister** | Recursively list all files in a directory with details like size, type, and timestamps—great for quick evidence collection. |
-| **URL and IP Extractor from Text** | Parse text files or clipboard input to extract domains, URLs, and IP addresses—handy for report triage or phishing analysis. |
-| **Browser Artifact Parser (Chrome History Reader)** | Read and parse Chrome’s History SQLite file to extract visited URLs and timestamps—useful for user activity investigations. |
-| **Simple WHOIS Lookup Tool**(https://github.com/0xPithyTrace/python-cyber-tools/tools/whois_lookup.py)) | Query domain registration information (registrar, dates, contact) to enrich suspicious domain findings. |
-| **Base64 & ROT13 Decoder** | Decode strings using common encodings—frequently needed in CTFs, phishing kits, and malware decoding. |
-| **Timestamp Converter** | Convert between UNIX/Epoch timestamps and human-readable time—essential for log correlation. |
-| **Suspicious String Finder in Memory Dump (Lite)** | Scan raw `.bin` or `.dmp` files for suspicious terms like "powershell" or "mimikatz" to triage memory quickly. |
+| [Tool](https://github.com/0xPithyTrace/python-cyber-tools/blob/main/tools) | Description | Link |
+|------|-------------|--------------|
+| **Simple WHOIS Lookup Tool** | Query domain registration information (registrar, dates, contact). | [whois_lookup.py](https://github.com/0xPithyTrace/python-cyber-tools/blob/main/tools/whois_lookup.py) |
+| **File Hash Calculator** | Compute MD5, SHA1, and SHA256 hashes for files to verify integrity or detect tampering. | (🚧 Under Construction) |
+| **Metadata Extractor (EXIF Lite)** | Extract EXIF metadata from image files to identify geolocation, timestamps, and device information. | (🚧 Under Construction) |
+| **Log File Keyword Searcher** | Search `.log` or `.txt` files for custom keywords like “admin”, “error”, or suspicious terms. | (🚧 Under Construction) |
+| **Triage File Info Lister** | Recursively list all files in a directory with details like size, type, and timestamps—great for quick evidence collection. | (🚧 Under Construction) |
+| **URL and IP Extractor from Text** | Parse text files or clipboard input to extract domains, URLs, and IP addresses—handy for report triage or phishing analysis. | (🚧 Under Construction) |
+| **Browser Artifact Parser (Chrome History Reader)** | Read and parse Chrome’s History SQLite file to extract visited URLs and timestamps—useful for user activity investigations. | (🚧 Under Construction) |
+| **Base64 & ROT13 Decoder** | Decode strings using common encodings—frequently needed in CTFs, phishing kits, and malware decoding. | (🚧 Under Construction) |
+| **Timestamp Converter** | Convert between UNIX/Epoch timestamps and human-readable time—essential for log correlation. | (🚧 Under Construction) |
+| **Suspicious String Finder in Memory Dump (Lite)** | Scan raw `.bin` or `.dmp` files for suspicious terms like "powershell" or "mimikatz" to triage memory quickly. | (🚧 Under Construction) |
 
 ---
 
