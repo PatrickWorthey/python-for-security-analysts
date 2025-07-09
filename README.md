@@ -15,7 +15,7 @@ Each script in this repo is designed to be simple, useful, and educational — p
 | **Triage File Info Lister** | Recursively list all files in a directory with details like size, type, and timestamps—great for quick evidence collection. |
 | **URL and IP Extractor from Text** | Parse text files or clipboard input to extract domains, URLs, and IP addresses—handy for report triage or phishing analysis. |
 | **Browser Artifact Parser (Chrome History Reader)** | Read and parse Chrome’s History SQLite file to extract visited URLs and timestamps—useful for user activity investigations. |
-| **Simple WHOIS Lookup Tool** | Query domain registration information (registrar, dates, contact) to enrich suspicious domain findings. |
+| **Simple WHOIS Lookup Tool**(https://github.com/0xPithyTrace/python-cyber-tools/tools/whois_lookup.py)) | Query domain registration information (registrar, dates, contact) to enrich suspicious domain findings. |
 | **Base64 & ROT13 Decoder** | Decode strings using common encodings—frequently needed in CTFs, phishing kits, and malware decoding. |
 | **Timestamp Converter** | Convert between UNIX/Epoch timestamps and human-readable time—essential for log correlation. |
 | **Suspicious String Finder in Memory Dump (Lite)** | Scan raw `.bin` or `.dmp` files for suspicious terms like "powershell" or "mimikatz" to triage memory quickly. |
