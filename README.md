@@ -10,7 +10,7 @@ Each script in this repo is designed to be simple, useful, and educational — p
 | [Tool](https://github.com/0xPithyTrace/python-cyber-tools/blob/main/tools) | Description | Link |
 |------|-------------|--------------|
 | **Simple WHOIS Lookup Tool** | Query domain registration information (registrar, dates, contact). | [whois_lookup.py](https://github.com/0xPithyTrace/python-cyber-tools/blob/main/tools/whois_lookup.py) |
-| **File Hash Calculator** | Compute MD5, SHA1, and SHA256 hashes for files to verify integrity or detect tampering. | (🚧 Under Construction) |
+| **File Hash Calculator** | Compute MD5, SHA1, and SHA256 hashes for files to verify integrity or detect tampering. | [file_hash_calculator.py](https://github.com/0xPithyTrace/python-cyber-tools/blob/main/tools/file_hash_calculator.py) |
 | **Metadata Extractor (EXIF Lite)** | Extract EXIF metadata from image files to identify geolocation, timestamps, and device information. | (🚧 Under Construction) |
 | **Log File Keyword Searcher** | Search `.log` or `.txt` files for custom keywords like “admin”, “error”, or suspicious terms. | (🚧 Under Construction) |
 | **Triage File Info Lister** | Recursively list all files in a directory with details like size, type, and timestamps—great for quick evidence collection. | (🚧 Under Construction) |
