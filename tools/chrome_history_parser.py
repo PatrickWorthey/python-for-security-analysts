@@ -1,7 +1,7 @@
 """
 Tool: Browser Artifact Parser (Chrome History Reader)
 Status: Work in Progress 🛠️
-Author: 0xPithyTrace
+Author: PatrickWorthey
 Description:
     This script will parse Chrome's History SQLite database and extract
     visited URLs along with timestamps. Useful for forensic analysis
