@@ -14,10 +14,10 @@ This repository is designed for analysts, investigators, and engineers who want 
 | **File Hash Calculator** | Compute MD5, SHA1, and SHA256 hashes for integrity checks. | [file_hash_calculator.py](tools/file_hash_calculator.py) |
 | **Metadata Extractor (EXIF)** | Extract EXIF data from image files: GPS, timestamps, device info. | [metadata_extractor.py](tools/metadata_extractor.py) |
 | **Log Keyword Searcher** | Search `.log` or `.txt` files for custom keywords like "error", "admin", or IOCs. | [keyword_log_searcher.py](tools/keyword_log_searcher.py) |
+| **Base64 / ROT13 Decoder** | Decode common encodings often used in malware, kits, or CTFs. | [base64_rot13_decoder.py](tools/base64_rot13_decoder.py) |
 | **Triage File Info Lister** | Recursively list files with size, type, and timestamps for evidence collection. | _In Progress_ |
 | **URL/IP Extractor** | Parse text or clipboard for domains, URLs, and IPs. Useful for phishing triage. | _In Progress_ |
 | **Chrome History Parser** | Read and parse Chrome SQLite history to extract URLs and visit timestamps. | _In Progress_ |
-| **Base64 / ROT13 Decoder** | Decode common encodings often used in malware, kits, or CTFs. | _In Progress_ |
 | **Timestamp Converter** | Convert between UNIX/Epoch and human-readable time for log correlation. | _In Progress_ |
 | **Memory String Finder** | Scan raw `.bin` or `.dmp` files for keywords like "mimikatz" or "powershell". | _In Progress_ |
 
