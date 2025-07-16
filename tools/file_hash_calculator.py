@@ -1,6 +1,6 @@
 """
 Tool: File Hash Calculator
-Author: 0xPithyTrace
+Author: PatrickWorthey
 Description:
     This Python script calculates the hash value (MD5, SHA-1, SHA-256) of a file. 
     It's a fundamental tool for digital forensics and incident response (DFIR) to 
