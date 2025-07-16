@@ -1,7 +1,7 @@
 """
 Tool: URL and IP Extractor from Text
 Status: Work in Progress 🛠️
-Author: 0xPithyTrace
+Author: PatrickWorthey
 Description:
     This script will extract domains, URLs, and IP addresses from
     text files or clipboard input. Great for phishing report triage
