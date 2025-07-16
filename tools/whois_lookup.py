@@ -1,6 +1,6 @@
 """
 Tool: Simple WHOIS Lookup Tool
-Author: 0xPithyTrace
+Author: PatrickWorthey
 Description:
     This script takes a domain name as input and returns key WHOIS registration
     details. Designed for beginner-friendly use in domain enrichment workflows.
