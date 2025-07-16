@@ -1,7 +1,7 @@
 """
 Tool: Triage File Info Lister
 Status: Work in Progress 🛠️
-Author: 0xPithyTrace
+Author: PatrickWorthey
 Description:
     This script will recursively list all files in a directory and
     display key attributes like size, extension, and timestamps.
