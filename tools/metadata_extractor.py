@@ -1,6 +1,6 @@
 """
 Tool: Metadata Extractor
-Author: 0xPithyTrace
+Author: PatrickWorthey
 Description:
     This tool extracts and displays EXIF metadata from image files.
     A file picker window allows users to choose the image interactively.
