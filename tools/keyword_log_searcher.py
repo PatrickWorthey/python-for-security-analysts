@@ -1,6 +1,6 @@
 """
 Tool: Log File Keyword Searcher
-Author: 0xPithyTrace
+Author: PatrickWorthey
 Description:
     This script allows the user to search a .log or .txt file for one or more
     user-defined keywords. It uses a GUI file picker and prints matching lines
