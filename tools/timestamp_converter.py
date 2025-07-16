@@ -1,7 +1,7 @@
 """
 Tool: Timestamp Converter
 Status: Work in Progress 🛠️
-Author: 0xPithyTrace
+Author: PatrickWorthey
 Description:
     This script will convert UNIX/Epoch timestamps into
     human-readable formats and vice versa.
