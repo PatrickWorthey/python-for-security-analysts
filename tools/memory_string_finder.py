@@ -1,7 +1,7 @@
 """
 Tool: Suspicious String Finder in Memory Dump (Lite)
 Status: Work in Progress 🛠️
-Author: 0xPithyTrace
+Author: PatrickWorthey
 Description:
     This script will scan raw `.bin` or `.dmp` files for suspicious
     strings like "powershell", "mimikatz", or other red flags often
